@@ -1,0 +1,27 @@
+{
+    "id":  "6c787ce1-2934-48c5-be1c-d2fac18c73ea",
+    "name":  "Default App Name",
+    "publisher":  "Dynamics DEV, LLC",
+    "brief":  "",
+    "description":  "",
+    "version":  "1.0.0.0",
+    "privacyStatement":  "",
+    "EULA":  "",
+    "help":  "",
+    "url":  "",
+    "logo":  "",
+    "dependencies":  [
+                     ],
+    "screenshots":  [
+
+                    ],
+    "application":  "1.0.0.0",
+    "platform":  "1.0.0.0",
+    "idRanges":  [
+            {
+                "from":  80120,
+                "to":  80125
+            }
+                 ],
+    "runtime":  "8.0"    
+}
